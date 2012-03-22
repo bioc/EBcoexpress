@@ -1,0 +1,14 @@
+Package: EBcoexpress
+Type: Package
+Title: EBcoexpress for Differential Co-Expression Analysis
+Version: 0.99.15
+Date: 2012-03-21
+Author: John A. Dawson
+Maintainer: John A. Dawson <jadawson@wisc.edu>
+Description: An Empirical Bayesian Approach to Differential Co-Expression
+  Analysis at the Gene-Pair Level
+License: GPL (>= 2)
+LazyLoad: yes
+Depends: EBarrays, mclust, minqa
+Suggests: graph, igraph, colorspace
+Packaged: 2012-03-21 19:52:20 UTC; jadawson
