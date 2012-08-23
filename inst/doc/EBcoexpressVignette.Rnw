@@ -591,7 +591,7 @@ showPair("X1~X2", fiftyGenes, tinyCond, pch=20,
 
 \pagebreak
 
-\bibliographystyle{biom.bst}
+\bibliographystyle{biom}
 \bibliography{EBcoexpressVignBib}
 
 \end{document}
