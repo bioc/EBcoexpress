@@ -287,7 +287,7 @@ priorDiagnostic(D, tinyCond, oout, 2)
 @
 
 \begin{center}
-\begin{figure}[fig:prDiagnos]
+\begin{figure}
   \centering
   \begin{tabular}{cc}
   \subfloat[]{\includegraphics[width=0.5\textwidth]{EBcoexpressVignette-f1a}} &
@@ -514,7 +514,7 @@ showNetwork(twentyGeneNames, D, condFocus = 2, gsep = "~",
 @
 
 \begin{center}
-\begin{figure}[fig:net2]
+\begin{figure}
   \centering
   \begin{tabular}{cc}
   \subfloat[]{\includegraphics[width=0.5\textwidth]{EBcoexpressVignette-f2a}} &
@@ -553,7 +553,7 @@ showNetwork(twentyGeneNames, D, condFocus = 2, gsep = "~",
 @
 
 \begin{center}
-\begin{figure}[fig:net3]
+\begin{figure}
   \centering
   \begin{tabular}{cc}
   \subfloat[]{\includegraphics[width=0.5\textwidth]{EBcoexpressVignette-f3a}} &
@@ -582,7 +582,7 @@ showPair("X1~X2", fiftyGenes, tinyCond, pch=20,
 @
 
 \begin{center}
-\begin{figure}[fig:pair4]
+\begin{figure}
 \includegraphics[width=\textwidth]{EBcoexpressVignette-fig4}
 \caption{\tiny Expression data for a pair of genes, X1 and X2, from the fiftyGenes expression matrix.
   Colors represent condition (1 is black, 2 is red), and a robust line is added to indicate trend in each condition.}
