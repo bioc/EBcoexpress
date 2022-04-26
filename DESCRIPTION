@@ -1,7 +1,7 @@
 Package: EBcoexpress
 Type: Package
 Title: EBcoexpress for Differential Co-Expression Analysis
-Version: 1.40.0
+Version: 1.41.0
 Date: 2012-03-21
 Author: John A. Dawson
 Maintainer: John A. Dawson <jadawson@wisc.edu>
